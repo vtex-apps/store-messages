@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Removes uncessary context.json file
+
 ## [0.0.2] - 2019-12-04
 
 ### Fixed
