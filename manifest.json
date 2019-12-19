@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "title": "Store Messages",
   "description": "Messages from VTEX's Store",
+  "dependencies": {
+    "vtex.render-server": "8.x"
+  },
   "builders": {
     "messages": "1.x",
     "docs": "0.x"
