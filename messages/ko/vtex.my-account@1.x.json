@@ -48,7 +48,7 @@
   "alert.fileTooBig": "이미지가 4MB 제한을 초과합니다, 더 작은 크기의 파일을 선택하세요.",
   "alert.passwordMismatch": "비밀번호가 일치하지 않습니다.",
   "alert.wrongPassword": "현재의 비밀번호가 틀립니다.",
-  "alert.wrongAndAboutToBlock": "Current password is wrong. One more invalid attempt will block your account for one hour.",
+  "alert.wrongAndAboutToBlock": "현재의 비밀번호가 틀립니다. 한번 더 잘못된 비밀번호를 입력하는 경우 계정이 한 시간 동안 차단됩니다.",
   "alert.blockedUser": "차단 되었습니다, 나중에 다시 시도하십시오.",
   "editor.defaultRoute.name": "나의 계정 - 홈",
   "editor.defaultRoute.description": "나의 계정의 기본 페이지",
