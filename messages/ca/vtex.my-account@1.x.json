@@ -54,6 +54,6 @@
   "editor.defaultRoute.description": "Pàgina predeterminada del meu compte",
   "editor.defaultRoute.field": "El camí predeterminat del meu compte",
   "editor.menu.name": "El meu compte: menú",
-  "editor.menu.description": "My Account's side menu",
+  "editor.menu.description": "El menú lateral del meu compte",
   "editor.menu.field": "Punt d'extensió del menú"
 }
