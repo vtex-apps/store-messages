@@ -18,7 +18,7 @@
   "store/greeting": "Ciao",
   "store/loading": "Caricamento in corso…",
   "store/newsletter.confirmationText": "Your email was successfully registered.",
-  "store/newsletter.confirmationTitle": "Thank you!",
+  "store/newsletter.confirmationTitle": "Grazie!",
   "store/newsletter.error": "Something went wrong, please try again later",
   "store/newsletter.invalidEmail": "Please, enter a valid email.",
   "store/newsletter.label": "Subscribe to our newsletter",
@@ -47,7 +47,7 @@
   "store/skuSelector.seeMore": "See {quantity} more",
   "store/store-components.share.label": "Share",
   "store/technicalspecifications.title": "Technical Specifications",
-  "store/user-address.change": "Change",
+  "store/user-address.change": "Cambia",
   "store/user-address.order": "Order to",
   "store/user-address.pickup": "Pick up at {name}"
 }
