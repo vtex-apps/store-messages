@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.3.1] - 2020-06-02
 
+### Fixed
+
+- `my-account@1.x` **IT** translations.
+
 ## [0.3.0] - 2020-02-18
 
 ## [0.2.0] - 2020-02-12
@@ -16,6 +20,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [0.1.1] - 2020-02-11
 
 ## [0.1.0] - 2019-12-09
+
 ### Changed
 
 - Organize messages folders by language and files by source app
