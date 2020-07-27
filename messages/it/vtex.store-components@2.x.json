@@ -44,10 +44,10 @@
   "store/shipping.label": "Calcolare spese di spedizione",
   "store/sku-selector.select.placeholder": "Scegli un'opzione",
   "store/sku-selector.variation.select-an-option": "Seleziona un'opzione",
-  "store/skuSelector.seeMore": "See {quantity} more",
-  "store/store-components.share.label": "Share",
-  "store/technicalspecifications.title": "Technical Specifications",
+  "store/skuSelector.seeMore": "Visualizza {quantity} altro",
+  "store/store-components.share.label": "Condividi",
+  "store/technicalspecifications.title": "Specifiche tecniche",
   "store/user-address.change": "Cambia",
-  "store/user-address.order": "Order to",
-  "store/user-address.pickup": "Pick up at {name}"
+  "store/user-address.order": "Ordina per",
+  "store/user-address.pickup": "Ritirare in {name}"
 }
