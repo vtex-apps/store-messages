@@ -26,7 +26,7 @@
   "store/newsletter.submit": "Iscriviti",
   "store/pricing.from": "Da",
   "store/pricing.installment-display": "O {installments} {times} di {installmentPrice}",
-  "store/pricing.interest-free": "interest-free",
+  "store/pricing.interest-free": "senza interessi",
   "store/pricing.savings": "Salva {savings}",
   "store/pricing.to": "A",
   "store/product-description.collapse.showLess": "Mostra meno",
