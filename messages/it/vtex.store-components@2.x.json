@@ -1,5 +1,5 @@
 {
-  "store/availability-subscriber.added-message": "E-mail registered successfully",
+  "store/availability-subscriber.added-message": "Email registrata correttamente",
   "store/availability-subscriber.email-placeholder": "Email",
   "store/availability-subscriber.error-message": "Failed, please try again",
   "store/availability-subscriber.invalid-email": "Non hai ricevuto l'SMS?",
