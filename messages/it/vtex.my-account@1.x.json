@@ -53,11 +53,11 @@
   "alert.passwordMismatch": "Le password non corrispondono.",
   "alert.wrongPassword": "La password attuale è sbagliata.",
   "alert.wrongAndAboutToBlock": "La password corrente è sbagliata. Un altro tentativo non valido bloccherà il tuo account per un'ora.",
-  "alert.blockedUser": "Sei stato bloccato, riprova più tardi.",
+  "alert.blockedUser": "Il tuo account è stato bloccato, riprova più tardi.",
   "editor.defaultRoute.name": "Il mio Account - Home",
-  "editor.defaultRoute.description": "Pagina di default della pagina: Il mio Account",
-  "editor.defaultRoute.field": "Percorso predefinito della pagina: Il mio Account",
+  "editor.defaultRoute.description": "Il mio Account - Pagina predefinita",
+  "editor.defaultRoute.field": "Il mio Account - Percorso predefinito",
   "editor.menu.name": "Il mio Account - Menu",
-  "editor.menu.description": "Menu  laterale Il mio Account",
-  "editor.menu.field": "Extension Point del Menu"
+  "editor.menu.description": "Il mio Account - Menu laterale",
+  "editor.menu.field": "Punto di estensione del Menu"
 }
