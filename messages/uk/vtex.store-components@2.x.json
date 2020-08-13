@@ -44,10 +44,10 @@
   "store/shipping.label": "Порахувати доставку",
   "store/sku-selector.select.placeholder": "Виберіть варіант",
   "store/sku-selector.variation.select-an-option": "Виберіть варіант",
-  "store/skuSelector.seeMore": "See {quantity} more",
-  "store/store-components.share.label": "Share",
-  "store/technicalspecifications.title": "Technical Specifications",
-  "store/user-address.change": "Change",
-  "store/user-address.order": "Order to",
-  "store/user-address.pickup": "Pick up at {name}"
+  "store/skuSelector.seeMore": "Показати ще {quantity}",
+  "store/store-components.share.label": "Поділитися",
+  "store/technicalspecifications.title": "Технічні специфікації",
+  "store/user-address.change": "Змінити",
+  "store/user-address.order": "Замовити",
+  "store/user-address.pickup": "Отримання в {name}"
 }
