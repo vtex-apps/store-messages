@@ -9,7 +9,7 @@
   "pages.myAccount": "Мой аккаунт",
   "pages.logout": "Выход",
   "logoutModal.cancel": "Отменить",
-  "logoutModal.title": "Вы действительно хотите выйти из системы?",
+  "logoutModal.title": "Вы действительно хотите выйти?",
   "personalData.redefinePassword": "Изменить пароль",
   "personalData.saveData": "Сохранить изменения",
   "personalData.password": "Пароль",
