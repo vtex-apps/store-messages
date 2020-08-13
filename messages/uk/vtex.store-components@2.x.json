@@ -21,7 +21,7 @@
   "store/newsletter.confirmationTitle": "Дякуємо!",
   "store/newsletter.error": "Щось пішло не так. Будь ласка, спробуйте трошки пізніше",
   "store/newsletter.invalidEmail": "Уведіть дійсну адресу ел. пошти.",
-  "store/newsletter.label": "Subscribe to our newsletter",
+  "store/newsletter.label": "Підпишіться на нашу розсилку новин",
   "store/newsletter.placeholder": "Enter your email address",
   "store/newsletter.submit": "Sign up",
   "store/pricing.from": "From",
