@@ -48,6 +48,6 @@
   "store/store-components.share.label": "Поділитися",
   "store/technicalspecifications.title": "Технічні специфікації",
   "store/user-address.change": "Змінити",
-  "store/user-address.order": "Замовити",
+  "store/user-address.order": "Замовити на адресу",
   "store/user-address.pickup": "Отримання в {name}"
 }
