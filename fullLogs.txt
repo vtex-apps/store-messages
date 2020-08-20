@@ -1,2 +1,13 @@
 Switched to a new branch 'chore/update-crowdin-config'
 M	crowdin.yml
+[chore/update-crowdin-config 5d3295e] Update crowdin config
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+ create mode 100644 fullLogs.txt
+To github.com:vtex-apps/store-messages.git
+ ! [rejected]        chore/update-crowdin-config -> chore/update-crowdin-config (non-fast-forward)
+error: failed to push some refs to 'git@github.com:vtex-apps/store-messages.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+fatal: A branch named 'chore/update-crowdin-config' already exists.
