@@ -50,7 +50,7 @@
   "alert.addressNotFound": "Adresa selectată nu a fost găsită.",
   "alert.success": "Informațiile tale au fost salvate cu succes.",
   "alert.fileTooBig": "Această imagine este deasupra limitei de 4MB, alege una mai mică.",
-  "alert.passwordMismatch": "Parolele nu se potrivesc",
+  "alert.passwordMismatch": "Parolele nu se potrivesc.",
   "alert.wrongPassword": "Parola actuală este greșită.",
   "alert.wrongAndAboutToBlock": "Parola actuală este greșită. Încă o încercare nevalidă îți va bloca contul timp de o oră.",
   "alert.blockedUser": "Ai fost blocat, încearcă din nou mai târziu.",
