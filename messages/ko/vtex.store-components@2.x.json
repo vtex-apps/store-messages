@@ -5,7 +5,7 @@
   "store/availability-subscriber.invalid-email": "잘못된 이메일",
   "store/availability-subscriber.name-placeholder": "이름",
   "store/availability-subscriber.send-label": "전송",
-  "store/availability-subscriber.subscribe-label": "I want to know when this product becomes available",
+  "store/availability-subscriber.subscribe-label": "이 제품을 언제 구매할 수 있게 될지 알고 싶습니다.",
   "store/availability-subscriber.title": "This product isn't available right now",
   "store/buy-button.add-to-cart": "Add to cart",
   "store/buyButton-label-unavailable": "Unavailable",
