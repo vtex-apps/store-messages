@@ -49,7 +49,7 @@
   "commons.edit": "Edytuj",
   "alert.addressNotFound": "Wybrany adres nie został znaleziony.",
   "alert.success": "Twoja informacja została pomyślnie zapisana.",
-  "alert.fileTooBig": "Ten obraz jest powyżej limitu 4MB, wybierz mniejszy",
+  "alert.fileTooBig": "Ten obraz przekracza limit 4 Mb, wybierz mniejszy.",
   "alert.passwordMismatch": "Hasła nie zgadzają się.",
   "alert.wrongPassword": "Bieżące hasło jest nieprawidłowe.",
   "alert.wrongAndAboutToBlock": "Bieżące hasło jest nieprawidłowe. Jeszcze jedna nieprawidłowa próba wpisania błędnego hasła zablokuje konto na godzinę.",
