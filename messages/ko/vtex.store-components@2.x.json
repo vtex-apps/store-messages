@@ -38,7 +38,7 @@
   "store/search.search-term-too-short": "검색어가 너무 짧습니다.",
   "store/search.searchFor": "{term} 검색",
   "store/searchBar.button.cancel.label": "취소",
-  "store/share.title": "{store}의 {product} {sku}: ",
+  "store/share.title": "{store} 의 {product} {sku}: ",
   "store/shipping.empty-sla": "해당 우편 번호에 가능한 배송 정보가 없습니다.",
   "store/shipping.free": "무료",
   "store/shipping.label": "배송비 계산",
@@ -49,5 +49,5 @@
   "store/technicalspecifications.title": "기술 사양",
   "store/user-address.change": "변경",
   "store/user-address.order": "주문",
-  "store/user-address.pickup": "{name}에서 픽업"
+  "store/user-address.pickup": "{name} 에서 픽업"
 }
