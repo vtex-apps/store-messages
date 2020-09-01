@@ -43,11 +43,11 @@
   "store/shipping.free": "Kostenlos",
   "store/shipping.label": "Versand berechnen",
   "store/sku-selector.select.placeholder": "Wählen Sie eine Option",
-  "store/sku-selector.variation.select-an-option": "Select an option",
-  "store/skuSelector.seeMore": "See {quantity} more",
-  "store/store-components.share.label": "Share",
-  "store/technicalspecifications.title": "Technical Specifications",
-  "store/user-address.change": "Change",
-  "store/user-address.order": "Order to",
-  "store/user-address.pickup": "Pick up at {name}"
+  "store/sku-selector.variation.select-an-option": "Wählen Sie eine Option",
+  "store/skuSelector.seeMore": "Siehe {quantity} mehr",
+  "store/store-components.share.label": "Teilen",
+  "store/technicalspecifications.title": "Technische Spezifikationen",
+  "store/user-address.change": "Ändern",
+  "store/user-address.order": "Auftrag an",
+  "store/user-address.pickup": "Abhholung bei {name}"
 }
