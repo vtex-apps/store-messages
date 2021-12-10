@@ -1,3 +1,5 @@
 files:
-  - source: /messages/en.json
-    translation: /messages/%two_letters_code%.json
+  - source: /messages/en/vtex.my-account@1.x.json
+    translation: /messages/%two_letters_code%/vtex.my-account@1.x.json
+  - source: /messages/en/vtex.store-components@2.x.json
+    translation: /messages/%two_letters_code%/vtex.store-components@2.x.json
