@@ -40,7 +40,7 @@
   "store/searchBar.button.cancel.label": "Anuluj",
   "store/share.title": "{product} {sku} w {store}: ",
   "store/shipping.empty-sla": "Nie ma dostępnych informacji o przesyłce dla podanego kodu pocztowego",
-  "store/shipping.free": "Darmowy",
+  "store/shipping.free": "Darmowe",
   "store/shipping.label": "Oblicz wysyłkę",
   "store/sku-selector.select.placeholder": "Wybierz opcję",
   "store/sku-selector.variation.select-an-option": "Zaznacz opcję",
