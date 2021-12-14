@@ -40,7 +40,7 @@
   "store/searchBar.button.cancel.label": "Cancel·la",
   "store/share.title": "{product} {sku} a {store}: ",
   "store/shipping.empty-sla": "No hi ha informació d'enviament disponible per al codi postal facilitat",
-  "store/shipping.free": "Gratis",
+  "store/shipping.free": "Gratuït",
   "store/shipping.label": "Calcula l'enviament",
   "store/sku-selector.select.placeholder": "Tria una opció",
   "store/sku-selector.variation.select-an-option": "Selecciona una opció",
