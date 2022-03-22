@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+
+- Arabic translations.
+
 ## [0.5.1] - 2022-03-17
 
 ### Fixed
