@@ -18,7 +18,7 @@
   "store/greeting": "مرحبًا",
   "store/loading": "تحميل...",
   "store/newsletter.confirmationText": "تم تسجيل بريدك الإلكتروني بنجاح.",
-  "store/newsletter.confirmationTitle": "شكرًا!",
+  "store/newsletter.confirmationTitle": "شكرا!",
   "store/newsletter.error": "حدث خطأ ما الرجاء المحاولة مرة أخرى في وقت لاحق",
   "store/newsletter.invalidEmail": "يرجى إدخال البريد الإلكتروني الصحيح.",
   "store/newsletter.label": "اشتراك في القائمة البريدية",
