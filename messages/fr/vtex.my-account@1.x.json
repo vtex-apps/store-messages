@@ -7,7 +7,7 @@
   "pages.profile": "Profil",
   "pages.profileEdit": "Modifier Profil",
   "pages.myAccount": "Mon compte",
-  "pages.logout": "Sortie",
+  "pages.logout": "Déconnexion",
   "logoutModal.cancel": "Annuler",
   "logoutModal.title": "Êtes-vous sûr de vouloir quitter cette page ?",
   "personalData.redefinePassword": "Redéfinir mot de passe",
