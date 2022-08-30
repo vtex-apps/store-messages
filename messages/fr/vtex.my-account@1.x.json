@@ -44,7 +44,7 @@
   "addresses.addAddress": "Ajouter adresse",
   "addresses.saveAddress": "Sauvegarder adresse",
   "addresses.deleteAddress": "Supprimer adresse",
-  "addresses.notFound": "Vous n'avez aucune adresse enregistré !",
+  "addresses.notFound": "Vous n'avez aucune adresse enregistrée !",
   "addresses.notApplicable": "N/A",
   "commons.edit": "Modifier",
   "alert.addressNotFound": "L'adresse sélectionnée n'a pas été trouvée.",
