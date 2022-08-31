@@ -8,7 +8,7 @@
   "pages.myAccount": "Contul meu",
   "pages.logout": "Deconectare",
   "logoutModal.cancel": "Anulează",
-  "logoutModal.title": "Chiar vrei să renunți?",
+  "logoutModal.title": "Ești sigur că vrei să te deconectezi?",
   "personalData.redefinePassword": "Schimbă parola",
   "personalData.saveData": "Salvează modificările",
   "personalData.password": "Parola",
