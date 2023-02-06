@@ -11,6 +11,28 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Spanish translation.
 
+## [0.6.0] - 2022-12-23
+
+### Added
+
+- Indonesian translation.
+
+## [0.5.7] - 2022-09-01
+
+### Fixed
+
+- French translation.
+
+## [0.5.6] - 2022-08-31
+
+## [0.5.5] - 2022-08-02
+
+## [0.5.4] - 2022-06-22
+
+### Fixed
+
+- French translation.
+
 ## [0.5.3] - 2022-04-06
 
 ### Fixed
